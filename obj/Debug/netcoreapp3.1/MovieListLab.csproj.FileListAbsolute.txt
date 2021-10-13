@@ -1,0 +1,14 @@
+C:\Users\radee\source\repos\MovieListLab\MovieListLab\bin\Debug\netcoreapp3.1\MovieListLab.exe
+C:\Users\radee\source\repos\MovieListLab\MovieListLab\bin\Debug\netcoreapp3.1\MovieListLab.deps.json
+C:\Users\radee\source\repos\MovieListLab\MovieListLab\bin\Debug\netcoreapp3.1\MovieListLab.runtimeconfig.json
+C:\Users\radee\source\repos\MovieListLab\MovieListLab\bin\Debug\netcoreapp3.1\MovieListLab.runtimeconfig.dev.json
+C:\Users\radee\source\repos\MovieListLab\MovieListLab\bin\Debug\netcoreapp3.1\MovieListLab.dll
+C:\Users\radee\source\repos\MovieListLab\MovieListLab\bin\Debug\netcoreapp3.1\MovieListLab.pdb
+C:\Users\radee\source\repos\MovieListLab\MovieListLab\obj\Debug\netcoreapp3.1\MovieListLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radee\source\repos\MovieListLab\MovieListLab\obj\Debug\netcoreapp3.1\MovieListLab.AssemblyInfoInputs.cache
+C:\Users\radee\source\repos\MovieListLab\MovieListLab\obj\Debug\netcoreapp3.1\MovieListLab.AssemblyInfo.cs
+C:\Users\radee\source\repos\MovieListLab\MovieListLab\obj\Debug\netcoreapp3.1\MovieListLab.csproj.CoreCompileInputs.cache
+C:\Users\radee\source\repos\MovieListLab\MovieListLab\obj\Debug\netcoreapp3.1\MovieListLab.dll
+C:\Users\radee\source\repos\MovieListLab\MovieListLab\obj\Debug\netcoreapp3.1\MovieListLab.pdb
+C:\Users\radee\source\repos\MovieListLab\MovieListLab\obj\Debug\netcoreapp3.1\MovieListLab.genruntimeconfig.cache
+C:\Users\radee\source\repos\MovieListLab\MovieListLab\obj\Debug\netcoreapp3.1\MovieListLab.csproj.AssemblyReference.cache
